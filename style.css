@@ -48,13 +48,6 @@ input {
 }
 
 button {
-  position:relative;
-  display:inline-block;
-  margin:20px;
-}
-
-button a{
-button {
     background-color: black;
     color: white;
     padding: 15px;
