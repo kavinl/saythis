@@ -28,7 +28,7 @@ h1 {
 }
 
 p {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif; 
     font-size: 16px;
     margin-bottom: 20px;
 }
@@ -48,13 +48,14 @@ input {
 }
 
 button {
-    background-color: black;
-    color: white;
+    background-color: rgba(0, 0, 0, 0.056);
+    color: black;
     padding: 15px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     font-size: 16px;
+    font-weight:500;
     width: 100%;
     text-align: center;
 
